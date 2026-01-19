@@ -5,3 +5,4 @@ next will clone remotly with our github repo URL
 then we create a branch 
 here i have created another branch names feature-branch where the chnages are made and aggain commited
 next in 3rd experiment we use STASH wich saves the chnages temporarily that are not commited 
+i have added an output file which will show the output of the program that i have committed
